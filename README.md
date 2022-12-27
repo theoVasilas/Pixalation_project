@@ -1,3 +1,4 @@
 # Embeded_systems
 Pixalation_project
-in these project there has been several improvments and haw been mesured with ARMulator program 
+The project implicates several improvements for educational purposes and the performances has been measured with ARMulator program
+
